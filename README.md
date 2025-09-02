@@ -1,4 +1,4 @@
-﻿# heart-disease-prediction-web-app
+
 # Heart Disease Prediction Web App
 
 ## Overview
@@ -30,6 +30,7 @@ This project is a machine learning-based web application that predicts the risk 
   - Age
   - Sex
   - Chest
+
 
 
 
